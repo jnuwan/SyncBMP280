@@ -1,0 +1,50 @@
+#######################################
+# Syntax Coloring Map For SyncBMP280
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SyncBMP280	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setSampling	KEYWORD2
+readTemperature	KEYWORD2
+readPressure	KEYWORD2
+readAltitude	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#	LITERAL1
+FILTER_OFF	LITERAL1
+FILTER_X2	LITERAL1
+FILTER_X4	LITERAL1
+FILTER_X8	LITERAL1
+FILTER_X16	LITERAL1
+
+MODE_SLEEP	LITERAL1
+MODE_FORCED	LITERAL1
+MODE_NORMAL	LITERAL1
+
+STANDBY_MS_1	LITERAL1
+STANDBY_MS_63	LITERAL1
+STANDBY_MS_125	LITERAL1
+STANDBY_MS_250	LITERAL1
+STANDBY_MS_500	LITERAL1
+STANDBY_MS_1000	LITERAL1
+STANDBY_MS_2000	LITERAL1
+STANDBY_MS_4000	LITERAL1
+
+SAMPLING_NONE	LITERAL1
+SAMPLING_X1	LITERAL1
+SAMPLING_X2	LITERAL1
+SAMPLING_X4	LITERAL1
+SAMPLING_X8	LITERAL1
+SAMPLING_X16	LITERAL1
